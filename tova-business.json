@@ -1,0 +1,74 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T08:22:44.169Z",
+  "slug": "code03swing",
+  "name": "Code 03 Swing",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Music & dance schools",
+    "niche": "music & dance schools",
+    "group": "Fitness & education"
+  },
+  "contact": {
+    "phone": "016-0684081",
+    "email": "code03swing@gmail.com",
+    "address": "460 Papanui Rd, Christchurch"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/468060396675265",
+    "instagram": "https://www.instagram.com/code03swing"
+  },
+  "about": {
+    "overview": "Code 03 Swing is the home of West Coast Swing in Christchurch. We run classes every Thursday night - beginners always welcome!",
+    "services": [
+      "Code 03 Swing",
+      "Schedule",
+      "Location"
+    ]
+  },
+  "before": {
+    "url": "http://code03swing.com/",
+    "domain": "code03swing.com",
+    "finalUrl": "http://code03swing.com/",
+    "title": "Code03Swing",
+    "pages": 15,
+    "score": 74,
+    "assessedAt": "2026-11-21T13:13:10.774Z",
+    "issues": [
+      {
+        "id": "no-viewport",
+        "title": "Not mobile-friendly",
+        "evidence": "The page has no responsive viewport tag, so phones show a shrunken desktop layout."
+      },
+      {
+        "id": "no-https",
+        "title": "Not served over HTTPS",
+        "evidence": "Final URL is http://code03swing.com/. Browsers label this site \"Not secure\"."
+      },
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "no-meta-desc",
+        "title": "No search description",
+        "evidence": "No meta description, so Google chooses random page text for search results."
+      },
+      {
+        "id": "no-schema",
+        "title": "No local-business search markup",
+        "evidence": "No structured data, so Google has less to show for the business."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/code-03-swing/",
+    "repoUrl": "https://github.com/tova-studio/code-03-swing",
+    "generator": "claude",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T08:22:44.170Z"
+  }
+}
